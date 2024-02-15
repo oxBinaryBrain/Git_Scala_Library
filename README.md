@@ -1,3 +1,13 @@
+<html>
+<head>
+  <title>GIT Scala</title>
+</head>
+<body>
+  
+<p align="left">
+  
+
+
 # Welcome to oxBinaryBrain's GitHub Profile! 🚀
 
 ## About Me
@@ -37,3 +47,9 @@ Aside from analyzing the Scala project repository, I've been actively contributi
 If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out to me. You can contact me through GitHub or via email at [your.email@example.com](mailto:ud4yg@yandex.com).
 
 Let's connect and build amazing things together! 🌟
+
+</p>
+
+</body>
+
+</html>
