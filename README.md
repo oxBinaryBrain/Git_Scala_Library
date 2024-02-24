@@ -3,7 +3,7 @@
 
 
 
-## About Me... #####
+## About Me...
 
 Hello there! I'm [oxBinaryBrain](https://github.com/oxBinaryBrain), a passionate programmer with a keen interest in data science and software development. I'm constantly exploring new technologies and contributing to open-source projects.
 
