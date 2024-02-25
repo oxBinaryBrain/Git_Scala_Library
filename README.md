@@ -1,12 +1,4 @@
 
-
-
-
-
-## About Me...
-
-Hello there! I'm [oxBinaryBrain](https://github.com/oxBinaryBrain), a passionate programmer with a keen interest in data science and software development. I'm constantly exploring new technologies and contributing to open-source projects.
-
 ## Scala Project Repository Analysis
 
 I recently conducted an analysis of the Scala project repository, which is a mature programming language with a history spanning over ten years. This analysis focused on identifying top contributors and experts based on pull request data.
